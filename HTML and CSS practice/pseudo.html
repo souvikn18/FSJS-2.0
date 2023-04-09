@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo elements</title>
+   
+    <style>
+        *{
+            background-color: #282a4e;
+            color: #faebd7;
+            
+            
+        }
+        
+        input{
+            border-style: hidden;
+            
+        }
+       button{
+        background-color: #faebd7;
+        color: black;
+        border-radius: 5px;
+        font-size: 12px;
+        padding: 3px 7px;
+       }
+       button:hover{
+        background-color: #000000;
+        color: #faebd7;
+        border-radius: 5px;
+        font-size: 12px;
+        padding: 3px 7px;
+       }
+       a{
+        text-decoration: none;
+       }
+       /* a:link{
+        text-decoration: none;
+        color: aquamarine;
+       } */
+       a:hover{
+        text-decoration: none;
+        color: blue;
+       }
+       /* a:visited{
+        text-decoration: none;
+        color: green;
+       } */
+        /* label::after{
+            content: '';
+            display: block;
+            width: 20px;
+            height: 20px;
+            border-radius: 10px;
+            background-color: #7700ff;
+        } */
+
+        input:focus{
+            background-color: #4d4d4d;
+            color: #ffffff;
+            border-radius: 5px;
+            height: 10px;
+            width: 100px;
+        }
+        
+    </style>
+</head>
+<body>
+    
+    <form action="">
+        <label for="name">Name:</label>
+        <input class="name" type="text" name="name" id=""><br><br>
+        <label for="phone">Phone:</label>
+        <input class="phone" type="tel" name="phone" id=""><br><br>
+        
+        <button type="submit" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
+            Submit
+          </button>
+          <button type="reset" class="btn btn-secondary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on bottom">
+            Reset
+          </button><br><br>
+          <a href="https://www.google.com/" target="_blank">Google</a>
+         
+        <!-- <button type="submit" >Submit</button>
+        <button type="reset">Reset</button> -->
+    </form>
+</body>
+</html>
