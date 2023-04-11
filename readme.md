@@ -3,3 +3,5 @@
 ## [HTML and CSS Practice](./HTML%20and%20CSS%20practice/readme.md)
 
 ## [Home works](./Home%20works/readme.md)
+
+## [Assignments](./Assignments/readme.md)
