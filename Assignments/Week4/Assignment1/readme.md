@@ -5,10 +5,10 @@
 ## Assignment 1
 
 >Target
-![](./Assignment1/output.png)
+![](./output.png)
 
-###  [HTML](./Assignment1/index.html)
-### [CSS](./Assignment1/style.css)
+###  [HTML](./index.html)
+### [CSS](./style.css)
 
 >Result
-![](./Assignment1/result.PNG)
+![](./result.PNG)
