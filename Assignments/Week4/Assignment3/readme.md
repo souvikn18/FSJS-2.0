@@ -5,7 +5,7 @@
 ## Assignment 3
 
 >Target
-![](./output.png)
+![](./Output.png)
 
 ###  [HTML](./index.html)
 ### [CSS](./style.css)
