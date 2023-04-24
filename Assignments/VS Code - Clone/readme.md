@@ -4,6 +4,10 @@
 
 I have done this project using HTML and Tailwind CSS only. This is designed in 1920*1080 resolution. This will not work properly in mobile device or tabs.
 
+### Website link:
+
+https://vscode-clone-souvik-nath.netlify.app/
+
 ![Output](output.jpeg)
 
 [Project file](index.html)
