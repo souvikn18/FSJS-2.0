@@ -5,3 +5,5 @@
 ## [Home works](./Home%20works/readme.md)
 
 ## [Assignments](./Assignments/readme.md)
+
+## [JavaScript Practice](./JavaScript%20Practice/readme.md)
