@@ -212,3 +212,19 @@ let Uppercasenames = [];
 //     Uppercasenames.push(y.length);
 // }
 // console.log(Uppercasenames);
+
+//Break and continue
+
+// for (let i = 0; i <= 10; i++) {
+//     if(i==5){
+//         break;              //break command will break the loop if the condition matches
+//     }
+//     console.log(i);
+// }
+
+for (let i = 0; i <= 10; i++) {
+    if(i==5){
+        continue;              //continue will check the condition, if matches then skip that specific condition and        continues the execution of loop
+    }
+    console.log(i);
+}
