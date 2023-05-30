@@ -194,3 +194,109 @@ body{
     width: 500px;
     object-fit: cover;
 }
+.s3{
+    display: flex;
+    gap: 100px;
+    height: 500px;
+}
+.s3d2{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 80px;
+}
+.learnmore2{
+    height: 60px;
+    width: 170px;
+    font-size: medium;
+    background:none;
+    border-width: 2px;
+    border-color: #f4694c;
+    color: #f4694c;
+    border-style:solid;
+    cursor: pointer;
+    font-weight: 600;
+}
+.s3h1{
+    height: 150px;
+    width: 570px;
+    font-size: 50px;
+}
+.s3p1{
+    height: 100px;
+    width: 500px;
+}
+
+.maingrid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 50px;
+    justify-content: center;
+}
+.gamephoto2{
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+}
+.mainflex2{
+    display: flex;
+    gap: 20px;
+}
+.subflex{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.sfh3{
+    height: 50px;
+    width: 300px;
+    font-size: 26px;
+}
+.sfp1{
+    color: #f4694c;
+    margin-top: 20px;
+}
+.sfp2{
+    color:#b5b2b2;
+    height: 50px;
+    width: 300px;
+}
+.mainflex{
+    display: flex;
+    justify-content: space-between;
+}
+.s4{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    height: 900px;
+}
+.mfh2{
+    height: 100px;
+    width: 500px;
+    font-size: 40px;
+}
+.square-color1{
+    border: #fde1db;
+    border-width: 2px;
+    height: 50px;
+    width: 50px;
+    background-color: #fde1db;
+    cursor: pointer;
+}
+.square-color2{
+    border: #f4694c;
+    border-width: 2px;
+    height: 50px;
+    width: 50px;
+    background-color: #f4694c;
+    cursor: pointer;
+}
+.imgflex{
+    display: flex;
+    gap: 10px;
+}
+.arrow{
+    margin-top: 18px;
+    margin-left: 12px;
+}
