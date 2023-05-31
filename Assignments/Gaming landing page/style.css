@@ -300,3 +300,71 @@ body{
     margin-top: 18px;
     margin-left: 12px;
 }
+.mains5{
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 950px;
+}
+.s5heading{
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    width: 450px;
+    height: 150px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.s5im1{
+    height: 400px;
+    width: 350px;
+    object-fit: cover;
+    z-index: 2;
+}
+.s5im2{
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+}
+.s5im3{
+    height: 280px;
+    width: 350px;
+    object-fit: cover;
+    margin-top: 120px;
+}
+.s5p1{
+    color: #b5b2b2;
+    font-weight:lighter;
+    height: 90px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.s5d2{
+    display: flex;
+    justify-content: center;
+    margin-left: 200px;
+}
+.gotw{
+    margin-right: 20px;
+    z-index: 1;
+    position: relative;
+    right: 20px;
+}
+.s5d3{
+    display: flex;
+    flex-direction: column;
+}
+.s5d6{
+    display: flex;
+    gap: 40px;
+    margin-left: 100px;
+    z-index: 2;
+    position: relative;
+    bottom: 30px;
+}
