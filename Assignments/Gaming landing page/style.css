@@ -368,3 +368,43 @@ body{
     position: relative;
     bottom: 30px;
 }
+.s6{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./Assets/Photos/Rectangle\ 606.png);
+    width: 1440px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    gap: 50px;
+    justify-content: center;
+    align-content: center;
+}
+.s6heading{
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    width: 500px;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.s6p1{
+    color: #b5b2b2;
+    font-weight:lighter;
+    height: 30px;
+    width: 500px;
+    text-align: center;
+}
+.getstarted2{
+    height: 50px;
+    width: 150px;
+    font-size: medium;
+    background: #f4694c;
+    border-width: 0px;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    margin-left: 170px;
+    margin-right: 170px;
+}
