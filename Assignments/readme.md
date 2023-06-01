@@ -9,3 +9,5 @@
 ## [Credit card landing page](./Credit%20card%20landing%20page/readme.md)
 
 ## [Hosting site landing page](./Hosting%20Site%20landing%20page/readme.md)
+
+## [Gaming landing page](./Gaming%20landing%20page/readme.md)
