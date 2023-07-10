@@ -7,3 +7,5 @@
 ## [Assignments](./Assignments/readme.md)
 
 ## [JavaScript Practice](./JavaScript%20Practice/readme.md)
+
+## [DOM Assignments](./DOM%20Assignments/readme.md) 
