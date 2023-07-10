@@ -1,0 +1,10 @@
+const a = document.querySelector(".fa-github");
+a.remove();
+const b = document.querySelector(".fa-linkedin-in");
+b.remove();
+const c = document.querySelector(".fa-instagram");
+c.remove();
+const edit1 = document.querySelector("input");
+// edit1.innerText="Search my project";
+// console.log(edit1);
+edit1.placeholder = "Search My Project";
