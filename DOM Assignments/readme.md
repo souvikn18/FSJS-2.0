@@ -7,3 +7,9 @@
 ## Assignment 5 - [Click here...](./DOM%20Assignment%205/readme.md)
 
 ## Assignment 6 - [Click here...](./DOM%20Assignment%206/readme.md)
+
+## Assignment 7 - [Click here...](./DOM%20Assignment%207/readme.md)
+
+## Assignment 8 - [Click here...](./DOM%20Assignment%208/readme.md)
+
+## Assignment 9 - [Click here...](./DOM%20Assignment%209/readme.md)
